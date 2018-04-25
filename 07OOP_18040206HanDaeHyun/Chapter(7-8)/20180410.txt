@@ -1,0 +1,9 @@
+14:16:18->J015::Tray Flow Feeder Up/Down Cylinder 가(이) (하강) 동작 이상입니다.
+14:16:18->Handler Running Stop
+14:16:18->Handler Running Start
+14:16:18->Z002::상단 Stacker(스테커) 도어가 열려있어 운전 할 수 없습니다.!!!
+14:16:21->N420::정상적으로 원점 복귀가 끝났습니다.!!!
+14:16:21->C014::LOAD::Preciser Up/Down Cylinder 가(이) (상승) 동작 이상입니다.
+14:16:21->내 이름은 한대현
+14:16:22->S/W 3팀 한대현 연구원
+14:16:22->값이 없습니다.

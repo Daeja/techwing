@@ -1,0 +1,21 @@
+﻿빌드 시작: 2018-04-16 오전 9:48:12
+     1>2 노드의 "C:\Users\daehyun.han\documents\visual studio 2010\Projects\08LIB_18040206HanDaeHyun\Chapter(8-1 HDH_SLIB_CHANGER)\Chapter(8-1 HDH_SLIB_CHANGER).vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\Chapter(8-1 HDH_SLIB_Changer.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         모든 출력이 최신 상태입니다.
+       Lib:
+         모든 출력이 최신 상태입니다.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\Users\daehyun.han\documents\visual studio 2010\Projects\08LIB_18040206HanDaeHyun\Debug\Chapter(8-1 HDH_SLIB_Changer.lib" /NOLOGO Debug\CConversion.obj
+         Debug\CLogger.obj
+         Debug\CMyString.obj
+         Debug\CTimer.obj
+         Chapter(8-1 HDH_SLIB_CHANGER).vcxproj -> C:\Users\daehyun.han\documents\visual studio 2010\Projects\08LIB_18040206HanDaeHyun\Debug\Chapter(8-1 HDH_SLIB_Changer.lib
+       FinalizeBuildStatus:
+         "Debug\Chapter(8-1 HDH_SLIB_Changer.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Debug\Chapter(8-1 HDH_SLIB_Changer.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"C:\Users\daehyun.han\documents\visual studio 2010\Projects\08LIB_18040206HanDaeHyun\Chapter(8-1 HDH_SLIB_CHANGER)\Chapter(8-1 HDH_SLIB_CHANGER).vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.14

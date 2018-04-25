@@ -1,0 +1,72 @@
+﻿빌드 시작: 2018-04-18 오후 5:16:00
+     1>3 노드의 "C:\Users\daehyun.han\documents\visual studio 2010\Projects\09COMmodule_18040206HanDaeHyun\Chapter(9-1)\Chapter(9-1).vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "Release\Chapter(9-1).unsuccessfulbuild"에 연결(touching)하고 있습니다.
+       ClCompile:
+         모든 출력이 최신 상태입니다.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _MBCS /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\Chapter(9-1).pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt DlgSerial.cpp
+         DlgSerial.cpp
+     1>c:\users\daehyun.han\documents\visual studio 2010\projects\09commodule_18040206handaehyun\chapter(9-1)\resource.h(19): warning C4005: 'IDC_STATIC' : 매크로 재정의
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afxres.h(306) : 'IDC_STATIC'의 이전 정의를 참조하십시오.
+     1>c:\users\daehyun.han\documents\visual studio 2010\projects\09commodule_18040206handaehyun\chapter(9-1)\CMyString.h(6): warning C4005: 'TRUE' : 매크로 재정의
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afx.h(235) : 'TRUE'의 이전 정의를 참조하십시오.
+     1>c:\users\daehyun.han\documents\visual studio 2010\projects\09commodule_18040206handaehyun\chapter(9-1)\CMyString.h(7): warning C4005: 'FALSE' : 매크로 재정의
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\atlmfc\include\afx.h(234) : 'FALSE'의 이전 정의를 참조하십시오.
+     1>c:\users\daehyun.han\documents\visual studio 2010\projects\09commodule_18040206handaehyun\chapter(9-1)\CMyString.h(44): warning C4273: 'CMyString::CMyString' : dll 링크가 일치하지 않습니다.
+                 c:\users\daehyun.han\documents\visual studio 2010\projects\09commodule_18040206handaehyun\chapter(9-1)\CMyString.h(18) : '{ctor}'의 이전 정의를 참조하십시오.
+     1>c:\users\daehyun.han\documents\visual studio 2010\projects\09commodule_18040206handaehyun\chapter(9-1)\CMyString.h(60): warning C4273: 'CMyString::CMyString' : dll 링크가 일치하지 않습니다.
+                 c:\users\daehyun.han\documents\visual studio 2010\projects\09commodule_18040206handaehyun\chapter(9-1)\CMyString.h(20) : '{ctor}'의 이전 정의를 참조하십시오.
+     1>c:\users\daehyun.han\documents\visual studio 2010\projects\09commodule_18040206handaehyun\chapter(9-1)\CMyString.h(68): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\daehyun.han\documents\visual studio 2010\projects\09commodule_18040206handaehyun\chapter(9-1)\CMyString.h(80): warning C4273: 'CMyString::CMyString' : dll 링크가 일치하지 않습니다.
+                 c:\users\daehyun.han\documents\visual studio 2010\projects\09commodule_18040206handaehyun\chapter(9-1)\CMyString.h(19) : '{ctor}'의 이전 정의를 참조하십시오.
+     1>c:\users\daehyun.han\documents\visual studio 2010\projects\09commodule_18040206handaehyun\chapter(9-1)\CMyString.h(83): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\daehyun.han\documents\visual studio 2010\projects\09commodule_18040206handaehyun\chapter(9-1)\CMyString.h(93): warning C4273: 'CMyString::~CMyString' : dll 링크가 일치하지 않습니다.
+                 c:\users\daehyun.han\documents\visual studio 2010\projects\09commodule_18040206handaehyun\chapter(9-1)\CMyString.h(21) : '{dtor}'의 이전 정의를 참조하십시오.
+     1>c:\users\daehyun.han\documents\visual studio 2010\projects\09commodule_18040206handaehyun\chapter(9-1)\CMyString.h(105): warning C4273: 'CMyString::getSize' : dll 링크가 일치하지 않습니다.
+                 c:\users\daehyun.han\documents\visual studio 2010\projects\09commodule_18040206handaehyun\chapter(9-1)\CMyString.h(22) : 'getSize'의 이전 정의를 참조하십시오.
+     1>c:\users\daehyun.han\documents\visual studio 2010\projects\09commodule_18040206handaehyun\chapter(9-1)\CMyString.h(118): warning C4273: 'CMyString::getSize' : dll 링크가 일치하지 않습니다.
+                 c:\users\daehyun.han\documents\visual studio 2010\projects\09commodule_18040206handaehyun\chapter(9-1)\CMyString.h(23) : 'getSize'의 이전 정의를 참조하십시오.
+     1>c:\users\daehyun.han\documents\visual studio 2010\projects\09commodule_18040206handaehyun\chapter(9-1)\CMyString.h(133): warning C4273: 'CMyString::print' : dll 링크가 일치하지 않습니다.
+                 c:\users\daehyun.han\documents\visual studio 2010\projects\09commodule_18040206handaehyun\chapter(9-1)\CMyString.h(24) : 'print'의 이전 정의를 참조하십시오.
+     1>c:\users\daehyun.han\documents\visual studio 2010\projects\09commodule_18040206handaehyun\chapter(9-1)\CMyString.h(149): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\daehyun.han\documents\visual studio 2010\projects\09commodule_18040206handaehyun\chapter(9-1)\CMyString.h(150): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(110) : 'strcat' 선언을 참조하십시오.
+     1>c:\users\daehyun.han\documents\visual studio 2010\projects\09commodule_18040206handaehyun\chapter(9-1)\CMyString.h(174): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\daehyun.han\documents\visual studio 2010\projects\09commodule_18040206handaehyun\chapter(9-1)\CMyString.h(175): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(110) : 'strcat' 선언을 참조하십시오.
+     1>c:\users\daehyun.han\documents\visual studio 2010\projects\09commodule_18040206handaehyun\chapter(9-1)\CMyString.h(195): warning C4273: 'CMyString::operator =' : dll 링크가 일치하지 않습니다.
+                 c:\users\daehyun.han\documents\visual studio 2010\projects\09commodule_18040206handaehyun\chapter(9-1)\CMyString.h(29) : '='의 이전 정의를 참조하십시오.
+     1>c:\users\daehyun.han\documents\visual studio 2010\projects\09commodule_18040206handaehyun\chapter(9-1)\CMyString.h(198): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\daehyun.han\documents\visual studio 2010\projects\09commodule_18040206handaehyun\chapter(9-1)\CMyString.h(214): warning C4273: 'CMyString::operator =' : dll 링크가 일치하지 않습니다.
+                 c:\users\daehyun.han\documents\visual studio 2010\projects\09commodule_18040206handaehyun\chapter(9-1)\CMyString.h(28) : '='의 이전 정의를 참조하십시오.
+     1>c:\users\daehyun.han\documents\visual studio 2010\projects\09commodule_18040206handaehyun\chapter(9-1)\CMyString.h(217): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\daehyun.han\documents\visual studio 2010\projects\09commodule_18040206handaehyun\chapter(9-1)\CMyString.h(233): warning C4273: 'CMyString::operator =' : dll 링크가 일치하지 않습니다.
+                 c:\users\daehyun.han\documents\visual studio 2010\projects\09commodule_18040206handaehyun\chapter(9-1)\CMyString.h(30) : '='의 이전 정의를 참조하십시오.
+     1>c:\users\daehyun.han\documents\visual studio 2010\projects\09commodule_18040206handaehyun\chapter(9-1)\CMyString.h(239): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\daehyun.han\documents\visual studio 2010\projects\09commodule_18040206handaehyun\chapter(9-1)\CMyString.h(243): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : 'itoa' 선언을 참조하십시오.
+     1>c:\users\daehyun.han\documents\visual studio 2010\projects\09commodule_18040206handaehyun\chapter(9-1)\CMyString.h(267): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\daehyun.han\documents\visual studio 2010\projects\09commodule_18040206handaehyun\chapter(9-1)\CMyString.h(268): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\daehyun.han\documents\visual studio 2010\projects\09commodule_18040206handaehyun\chapter(9-1)\CMyString.h(296): warning C4273: 'CMyString::operator char *' : dll 링크가 일치하지 않습니다.
+                 c:\users\daehyun.han\documents\visual studio 2010\projects\09commodule_18040206handaehyun\chapter(9-1)\CMyString.h(33) : '.PAD'의 이전 정의를 참조하십시오.
+     1>c:\users\daehyun.han\documents\visual studio 2010\projects\09commodule_18040206handaehyun\chapter(9-1)\CMyString.h(326): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\daehyun.han\documents\visual studio 2010\projects\09commodule_18040206handaehyun\chapter(9-1)\CMyString.h(353): warning C4273: 'CMyString::SetStringSize' : dll 링크가 일치하지 않습니다.
+                 c:\users\daehyun.han\documents\visual studio 2010\projects\09commodule_18040206handaehyun\chapter(9-1)\CMyString.h(34) : 'SetStringSize'의 이전 정의를 참조하십시오.
+     1>DlgSerial.cpp(99): error C3861: 'assert': 식별자를 찾을 수 없습니다.
+     1>DlgSerial.cpp(158): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>"C:\Users\daehyun.han\documents\visual studio 2010\Projects\09COMmodule_18040206HanDaeHyun\Chapter(9-1)\Chapter(9-1).vcxproj" 프로젝트를 빌드했습니다(build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:00.53

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CCommunication" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIABAAEAAAAAAAAQAAAAQBAAAAACAAAA=</HashCode>
+      <FileName>Chapter09 dll.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEthernet" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAEAAAAAAABAAAAAAAAAAiQAAAAgAAAAAAQAAAA=</HashCode>
+      <FileName>Ethernet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSerial" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACIAJABACEAQAAAAgAQAAAAQECAAAACAAAA=</HashCode>
+      <FileName>Serial.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTCPClient" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAIAAAAEAAAAAAAAAAAAAQAAAAAACAAAA=</HashCode>
+      <FileName>TCPClient.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTCPServer" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAIAAAAEAABBAAAAAAAAAQAAAAAACAAAA=</HashCode>
+      <FileName>TCPServer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUDP" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAEAIAAAAAABAAAAQAAAAAACAAAA=</HashCode>
+      <FileName>UDP.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>

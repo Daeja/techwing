@@ -1,0 +1,18 @@
+﻿빌드 시작: 2018-04-16 오전 10:30:32
+     1>2 노드의 "C:\Users\daehyun.han\documents\visual studio 2010\Projects\08LIB_18040206HanDaeHyun\Chapter(8-1 Implicit Dynamic Library)\Chapter(8-1 Implicit Dynamic Library).vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "Debug\Chapter(8-1 Implicit Dynamic Library).unsuccessfulbuild"에 연결(touching)하고 있습니다.
+       ClCompile:
+         모든 출력이 최신 상태입니다.
+       ManifestResourceCompile:
+         모든 출력이 최신 상태입니다.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\daehyun.han\documents\visual studio 2010\Projects\08LIB_18040206HanDaeHyun\Debug\Chapter(8-1 Implicit Dynamic Library).exe" /INCREMENTAL /NOLOGO "Chapter(8-1 HDH_DLIB_Changer).lib" /MANIFEST /ManifestFile:"Debug\Chapter(8-1 Implicit Dynamic Library).exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\daehyun.han\documents\visual studio 2010\Projects\08LIB_18040206HanDaeHyun\Debug\Chapter(8-1 Implicit Dynamic Library).pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\daehyun.han\documents\visual studio 2010\Projects\08LIB_18040206HanDaeHyun\Debug\Chapter(8-1 Implicit Dynamic Library).lib" /MACHINE:X86 "Debug\Chapter(8-1 Implicit Dynamic Library).exe.embed.manifest.res"
+         "Debug\Chapter(8-1 Implicit Dynamic Library).obj"
+     1>Chapter(8-1 Implicit Dynamic Library).obj : error LNK2019: "class std::basic_istream<char,struct std::char_traits<char> > & __cdecl operator>>(class std::basic_istream<char,struct std::char_traits<char> > &,class CMyString &)" (??5@YAAAV?$basic_istream@DU?$char_traits@D@std@@@std@@AAV01@AAVCMyString@@@Z) 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+     1>C:\Users\daehyun.han\documents\visual studio 2010\Projects\08LIB_18040206HanDaeHyun\Debug\Chapter(8-1 Implicit Dynamic Library).exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
+     1>"C:\Users\daehyun.han\documents\visual studio 2010\Projects\08LIB_18040206HanDaeHyun\Chapter(8-1 Implicit Dynamic Library)\Chapter(8-1 Implicit Dynamic Library).vcxproj" 프로젝트를 빌드했습니다(build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:00.31

@@ -1,0 +1,38 @@
+﻿빌드 시작: 2018-04-16 오전 8:51:30
+     1>2 노드의 "C:\Users\daehyun.han\Documents\Visual Studio 2010\Projects\07OOP_18040206HanDaeHyun\Chapter(7-3)\Chapter(7-3).vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\Chapter(7-3).unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt CDeskLamp.cpp "Chapter(7-3).cpp" CTimer.cpp
+         CTimer.cpp
+         Chapter(7-3).cpp
+     1>c:\users\daehyun.han\documents\visual studio 2010\projects\07oop_18040206handaehyun\chapter(7-3)\ctimer.h(3): warning C4005: 'TRUE' : 매크로 재정의
+                 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\windef.h(72) : 'TRUE'의 이전 정의를 참조하십시오.
+     1>c:\users\daehyun.han\documents\visual studio 2010\projects\07oop_18040206handaehyun\chapter(7-3)\ctimer.h(4): warning C4005: 'FALSE' : 매크로 재정의
+                 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\windef.h(68) : 'FALSE'의 이전 정의를 참조하십시오.
+         CDeskLamp.cpp
+         코드를 생성하고 있습니다...
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Chapter(7-3).exe.embed.manifest.res" "Debug\Chapter(7-3)_manifest.rc" 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\daehyun.han\Documents\Visual Studio 2010\Projects\07OOP_18040206HanDaeHyun\Debug\Chapter(7-3).exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Chapter(7-3).exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\daehyun.han\Documents\Visual Studio 2010\Projects\07OOP_18040206HanDaeHyun\Debug\Chapter(7-3).pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\daehyun.han\Documents\Visual Studio 2010\Projects\07OOP_18040206HanDaeHyun\Debug\Chapter(7-3).lib" /MACHINE:X86 "Debug\Chapter(7-3).exe.embed.manifest.res"
+         Debug\CDeskLamp.obj
+         "Debug\Chapter(7-3).obj"
+         Debug\CTimer.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Chapter(7-3).exe.embed.manifest" /manifest "Debug\Chapter(7-3).exe.intermediate.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Chapter(7-3).exe.embed.manifest.res" "Debug\Chapter(7-3)_manifest.rc" 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\daehyun.han\Documents\Visual Studio 2010\Projects\07OOP_18040206HanDaeHyun\Debug\Chapter(7-3).exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Chapter(7-3).exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\daehyun.han\Documents\Visual Studio 2010\Projects\07OOP_18040206HanDaeHyun\Debug\Chapter(7-3).pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\daehyun.han\Documents\Visual Studio 2010\Projects\07OOP_18040206HanDaeHyun\Debug\Chapter(7-3).lib" /MACHINE:X86 "Debug\Chapter(7-3).exe.embed.manifest.res"
+         Debug\CDeskLamp.obj
+         "Debug\Chapter(7-3).obj"
+         Debug\CTimer.obj
+         Chapter(7-3).vcxproj -> C:\Users\daehyun.han\Documents\Visual Studio 2010\Projects\07OOP_18040206HanDaeHyun\Debug\Chapter(7-3).exe
+       FinalizeBuildStatus:
+         "Debug\Chapter(7-3).unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Debug\Chapter(7-3).lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"C:\Users\daehyun.han\Documents\Visual Studio 2010\Projects\07OOP_18040206HanDaeHyun\Chapter(7-3)\Chapter(7-3).vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:02.78

@@ -1,0 +1,56 @@
+﻿빌드 시작: 2018-04-16 오전 10:30:33
+     1>3 노드의 "C:\Users\daehyun.han\documents\visual studio 2010\Projects\08LIB_18040206HanDaeHyun\Chapter(8-1 HDH_DLIB_Changer)\Chapter(8-1 HDH_DLIB_Changer).vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\Chapter(8-1 HDH_DLIB_Changer).unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         모든 출력이 최신 상태입니다.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D CHAPTER81HDH_DLIB_CHANGER_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Chapter(8-1 HDH_DLIB_Changer).pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt CConversion.cpp
+         CConversion.cpp
+     1>c:\users\daehyun.han\documents\visual studio 2010\projects\08lib_18040206handaehyun\chapter(8-1 hdh_dlib_changer)\cconversion.cpp(17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\daehyun.han\documents\visual studio 2010\projects\08lib_18040206handaehyun\chapter(8-1 hdh_dlib_changer)\cconversion.cpp(27): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\daehyun.han\documents\visual studio 2010\projects\08lib_18040206handaehyun\chapter(8-1 hdh_dlib_changer)\cconversion.cpp(61): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(867) : 'itoa' 선언을 참조하십시오.
+     1>c:\users\daehyun.han\documents\visual studio 2010\projects\08lib_18040206handaehyun\chapter(8-1 hdh_dlib_changer)\cconversion.cpp(73): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(867) : 'itoa' 선언을 참조하십시오.
+     1>c:\users\daehyun.han\documents\visual studio 2010\projects\08lib_18040206handaehyun\chapter(8-1 hdh_dlib_changer)\cconversion.cpp(87): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\daehyun.han\documents\visual studio 2010\projects\08lib_18040206handaehyun\chapter(8-1 hdh_dlib_changer)\cconversion.cpp(106): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+       ResourceCompile:
+         모든 출력이 최신 상태입니다.
+       ManifestResourceCompile:
+         모든 출력이 최신 상태입니다.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\daehyun.han\documents\visual studio 2010\Projects\08LIB_18040206HanDaeHyun\Debug\Chapter(8-1 HDH_DLIB_Changer).dll" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\Chapter(8-1 HDH_DLIB_Changer).dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\daehyun.han\documents\visual studio 2010\Projects\08LIB_18040206HanDaeHyun\Debug\Chapter(8-1 HDH_DLIB_Changer).pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\daehyun.han\documents\visual studio 2010\Projects\08LIB_18040206HanDaeHyun\Debug\Chapter(8-1 HDH_DLIB_Changer).lib" /MACHINE:X86 /DLL "Debug\Chapter(8-1 HDH_DLIB_Changer).res"
+         "Debug\Chapter(8-1 HDH_DLIB_Changer).dll.embed.manifest.res"
+         Debug\CConversion.obj
+         Debug\CLogger.obj
+         Debug\CMyString.obj
+         Debug\CTimer.obj
+         Debug\stdafx.obj
+            C:\Users\daehyun.han\documents\visual studio 2010\Projects\08LIB_18040206HanDaeHyun\Debug\Chapter(8-1 HDH_DLIB_Changer).lib 라이브러리 및 C:\Users\daehyun.han\documents\visual studio 2010\Projects\08LIB_18040206HanDaeHyun\Debug\Chapter(8-1 HDH_DLIB_Changer).exp 개체를 생성하고 있습니다.
+     1>CConversion.obj : warning LNK4217: 지역으로 정의된 ??BCMyString@@QBEPADXZ (public: __thiscall CMyString::operator char *(void)const ) 기호를 _CMyStringToChar 함수로 가져왔습니다.
+     1>CLogger.obj : warning LNK4049: 지역으로 정의된 기호 ??BCMyString@@QBEPADXZ (public: __thiscall CMyString::operator char *(void)const )을(를) 가져왔습니다.
+     1>CConversion.obj : warning LNK4217: 지역으로 정의된 ?getSize@CMyString@@QAEHXZ (public: int __thiscall CMyString::getSize(void)) 기호를 _CMyStringToChar 함수로 가져왔습니다.
+     1>CConversion.obj : warning LNK4217: 지역으로 정의된 ??1CMyString@@QAE@XZ (public: __thiscall CMyString::~CMyString(void)) 기호를 _CharToCMyString 함수로 가져왔습니다.
+     1>CLogger.obj : warning LNK4217: 지역으로 정의된 ??1CMyString@@QAE@XZ (public: __thiscall CMyString::~CMyString(void)) 기호를 "public: __thiscall CLogger::CLogger(char *)" (??0CLogger@@QAE@PAD@Z) 함수로 가져왔습니다.
+     1>CConversion.obj : warning LNK4217: 지역으로 정의된 ??4CMyString@@QAE?AV0@PAD@Z (public: class CMyString __thiscall CMyString::operator=(char *)) 기호를 _CharToCMyString 함수로 가져왔습니다.
+     1>CLogger.obj : warning LNK4217: 지역으로 정의된 ??4CMyString@@QAE?AV0@PAD@Z (public: class CMyString __thiscall CMyString::operator=(char *)) 기호를 __ehhandler$??0CLogger@@QAE@PAD@Z 함수로 가져왔습니다.
+     1>CLogger.obj : warning LNK4217: 지역으로 정의된 ??0CMyString@@QAE@XZ (public: __thiscall CMyString::CMyString(void)) 기호를 "public: __thiscall CLogger::CLogger(void)" (??0CLogger@@QAE@XZ) 함수로 가져왔습니다.
+     1>CLogger.obj : warning LNK4217: 지역으로 정의된 ??0CMyString@@QAE@PAD@Z (public: __thiscall CMyString::CMyString(char *)) 기호를 "public: void __thiscall CLogger::write(char *)" (?write@CLogger@@QAEXPAD@Z) 함수로 가져왔습니다.
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Chapter(8-1 HDH_DLIB_Changer).dll.embed.manifest" /manifest "Debug\Chapter(8-1 HDH_DLIB_Changer).dll.intermediate.manifest" "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         모든 출력이 최신 상태입니다.
+       LinkEmbedManifest:
+         모든 출력이 최신 상태입니다.
+         Chapter(8-1 HDH_DLIB_Changer).vcxproj -> C:\Users\daehyun.han\documents\visual studio 2010\Projects\08LIB_18040206HanDaeHyun\Debug\Chapter(8-1 HDH_DLIB_Changer).dll
+       FinalizeBuildStatus:
+         "Debug\Chapter(8-1 HDH_DLIB_Changer).unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Debug\Chapter(8-1 HDH_DLIB_Changer).lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"C:\Users\daehyun.han\documents\visual studio 2010\Projects\08LIB_18040206HanDaeHyun\Chapter(8-1 HDH_DLIB_Changer)\Chapter(8-1 HDH_DLIB_Changer).vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.78
